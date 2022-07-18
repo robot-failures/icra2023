@@ -3,7 +3,7 @@
   name: "Iman"
   surname: "Awaad"
   company: "Hochschule Bonn-Rhein-Sieg"
-  title: "TBD"
+  title: "Research associate"
   bio: "TBD"
   thumbnailUrl: awaad.png
   rockstar: false
@@ -69,4 +69,31 @@
   title: "TBD"
   bio: "TBD"
   thumbnailUrl: question_mark.png
+  rockstar: false
+-
+  id: 100
+  name: "Alex"
+  surname: "Mitrevski"
+  company: "Hochschule Bonn-Rhein-Sieg"
+  title: "Research associate"
+  bio: "Alex Mitrevski is a research associate in the Autonomous Systems Group at Hochschule Bonn-Rhein-Sieg in Sankt Augustin, Germany and a finishing PhD student, jointly at RWTH Aachen and Hochschule Bonn-Rhein-Sieg. His research interests include cognitive robotics, robot introspection, lifelong robot learning, and knowledge representation and reasoning for robots."
+  thumbnailUrl: mitrevski.png
+  rockstar: false
+-
+  id: 101
+  name: "Santosh"
+  surname: "Thoduka"
+  company: "Hochschule Bonn-Rhein-Sieg"
+  title: "Research associate"
+  bio: "Santosh Thoduka is a research associate in the Autonomous Systems Group at Hochschule Bonn-Rhein-Sieg, Germany and a PhD student, jointly at the University of Bonn and Hochschule Bonn-Rhein-Sieg. His research focuses on visual anomaly detection for robot execution failures."
+  thumbnailUrl: thoduka.png
+  rockstar: false
+-
+  id: 102
+  name: "Paul G."
+  surname: "Plöger"
+  company: "Hochschule Bonn-Rhein-Sieg"
+  title: "Professor"
+  bio: "Paul G. Plöger is a professor of Autonomous Systems in the Computer Science Department at Hochschule Bonn-Rhein-Sieg, as well as a director of the Bonn-Aachen International Center for Information Technology (b-it). His research interests include service robotics, neural networks, electronic assessment, and fault detection, diagnosis, and removal for autonomous systems."
+  thumbnailUrl: ploeger.png
   rockstar: false
