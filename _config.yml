@@ -15,7 +15,7 @@ email: "robot-failures@h-brs.de"
 description: "ICRA 2023 Workshop on Robot Execution Failures and Failure Management Strategies"
 baseurl: "/icra2023"
 url: "https://robot-failures.github.io"
-permalink: "/blog/:title"
+permalink: "/news/:title"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
