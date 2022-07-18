@@ -23,7 +23,7 @@
   title: "Execution monitoring and failure recovery"
   description: "This session will focus on discussing approaches for monitoring the execution of robots as well as techniques for failure recovery."
   subtype: presentation
-  # speakers: [1, 2]
+  speakers: [1, 2]
   video: ""
 -
   id: 102
