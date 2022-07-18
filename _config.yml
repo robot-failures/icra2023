@@ -68,9 +68,9 @@ organizersTitle: "Organisers"
 footerBlocks:
  -
   title: "Links"
+  links:
+   - {link: "https://www.ieee-ras.org/about-ras/diversity-page/ieee-ras-code-of-conduct", text: "IEEE RAS Code of Conduct"}
  -
   title: "Contacts"
   links:
    - {link: "mailto:robot-failures@h-brs.de", text: "robot-failures@h-brs.de"}
- -
-  title: "FAQ"
