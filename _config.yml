@@ -67,3 +67,6 @@ footerBlocks:
   title: "Contacts"
   links:
    - {link: "mailto:robot-failures@h-brs.de", text: "robot-failures@h-brs.de"}
+
+blogTitle: "Latest news"
+blogCommentsEnabled: false
