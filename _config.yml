@@ -47,7 +47,7 @@ heroTitle: "Workshop on Robot Execution Failures and Failure Management Strategi
 eventDate: "Workshop at ICRA 2023 (Proposal)"
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "About the Workshop"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
@@ -56,12 +56,21 @@ aboutBlock:
 # Latest News Block
 latestNewsTitle: "Latest news"
 
+# Tweets Feed Block
+tweetsFeedImage: "twitter-feed.jpg"
+tweetsFeedTitle: "Join the discussion at"
+twitterHashTag: "robot_failures_icra"
+
 # Partners Block
 organizersTitle: "Organisers"
 
 # Footer
 footerBlocks:
  -
+  title: "Links"
+ -
   title: "Contacts"
   links:
    - {link: "mailto:robot-failures@h-brs.de", text: "robot-failures@h-brs.de"}
+ -
+  title: "FAQ"
