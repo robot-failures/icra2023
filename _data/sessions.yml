@@ -32,21 +32,21 @@
   title: "Learning for recognising, avoiding, and analysing execution failures"
   description: "The focus of this session will be on learning-based approaches for recognising failures, avoiding such failures during execution, analysing failures if they occur, and providing failure explanations to human users."
   subtype: presentation
-  # speakers: [3, 4]
+  speakers: [3, 4]
   video: ""
 -
   id: 103
   title: "Failures in human-robot interaction"
   description: "This session will focus on failures that occur during the interaction between robots and humans and their impacts on the trustworthiness of robots."
   subtype: presentation
-  # speakers: [5, 6]
+  speakers: [5, 6]
   video: ""
 -
   id: 104
   title: "Robot failures in practical applications"
   description: "In this session, robot failures will be discussed in the context of concrete practical applications, such as industrial deployment use cases."
   subtype: presentation
-  # speakers: [7, 8]
+  speakers: [7, 8]
   video: ""
 -
   id: 201
