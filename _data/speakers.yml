@@ -9,30 +9,30 @@
   rockstar: false
 -
   id: 2
-  name: "TBD"
-  surname: "TBD"
-  company: "TBD"
-  title: "TBD"
+  name: "Gerald"
+  surname: "Steinbauer-Wagner"
+  company: "Graz University of Technology"
+  title: "Associate Professor"
   bio: "TBD"
-  thumbnailUrl: question_mark.png
+  thumbnailUrl: steinbauer-wagner.png
   rockstar: false
 -
   id: 3
-  name: "TBD"
-  surname: "TBD"
-  company: "TBD"
-  title: "TBD"
+  name: "Erwin"
+  surname: "Prassler"
+  company: "Hochschule Bonn-Rhein-Sieg/KELO Robotics/Locomotec"
+  title: "Professor"
   bio: "TBD"
-  thumbnailUrl: question_mark.png
+  thumbnailUrl: prassler.png
   rockstar: false
 -
   id: 4
-  name: "TBD"
-  surname: "TBD"
-  company: "TBD"
-  title: "TBD"
+  name: "Marta"
+  surname: "Romeo"
+  company: "The University of Manchester"
+  title: "Research associate"
   bio: "TBD"
-  thumbnailUrl: question_mark.png
+  thumbnailUrl: romeo.png
   rockstar: false
 -
   id: 5
