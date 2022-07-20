@@ -36,12 +36,12 @@
   rockstar: false
 -
   id: 5
-  name: "TBD"
-  surname: "TBD"
-  company: "TBD"
-  title: "TBD"
+  name: "Sonia"
+  surname: "Chernova"
+  company: "Georgia Institute of Technology"
+  title: "Associate Professor"
   bio: "TBD"
-  thumbnailUrl: question_mark.png
+  thumbnailUrl: chernova.png
   rockstar: false
 -
   id: 6
