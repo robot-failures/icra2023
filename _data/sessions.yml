@@ -1,6 +1,6 @@
 -
   id: 001
-  title: "Coffee break"
+  title: "Coffee break and poster presentations"
   place: "Hall"
   service: true
 -
@@ -13,13 +13,13 @@
   title: "Welcome and opening remarks"
   description: "Introduction to the workshop"
   subtype: presentation
-  speakers: [100, 101, 102]
+  speakers: [100, 101, 102, 103, 104]
 -
   id: 003
   title: "Closing remarks"
   description: "Workshop closing remarks"
   subtype: presentation
-  speakers: [100, 101, 102]
+  speakers: [100, 101, 102, 103, 104]
 -
   id: 101
   title: "Execution monitoring and failure recovery"

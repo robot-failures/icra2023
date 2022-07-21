@@ -29,3 +29,21 @@
   social:
     - {name: "github", link: "https://github.com/pploeg2m"}
     - {name: "site", link: "https://www.h-brs.de/en/inf/prof-dr-paul-g-ploeger"}
+-
+  id: 3
+  name: "Karinne"
+  surname: "Ramirez-Amaro"
+  title: "Co-organiser"
+  thumbnailUrl: ramirez-amaro.png
+  team: true
+  social:
+    - {name: "site", link: "https://www.chalmers.se/en/staff/Pages/karinne.aspx"}
+-
+  id: 4
+  name: "Maximilian"
+  surname: "Diehl"
+  title: "Co-organiser"
+  thumbnailUrl: diehl.png
+  team: true
+  social:
+    - {name: "site", link: "https://www.chalmers.se/en/staff/Pages/diehlm.aspx"}

@@ -97,3 +97,21 @@
   bio: "Paul G. Plöger is a professor of Autonomous Systems in the Computer Science Department at Hochschule Bonn-Rhein-Sieg, as well as a director of the Bonn-Aachen International Center for Information Technology (b-it). His research interests include service robotics, neural networks, electronic assessment, and fault detection, diagnosis, and removal for autonomous systems."
   thumbnailUrl: ploeger.png
   rockstar: false
+-
+  id: 103
+  name: "Karinne"
+  surname: "Ramirez-Amaro"
+  company: "Chalmers University of Technology"
+  title: "Professor"
+  bio: "Karinne Ramirez-Amaro is an associate professor in the Department of Electrical Engineering at Chalmers University of Technology. Her research interests include artificial intelligence, expert systems, semantic representations, human activity recognition and understanding, and assistive robotics."
+  thumbnailUrl: ramirez-amaro.png
+  rockstar: false
+-
+  id: 104
+  name: "Maximilian"
+  surname: "Diehl"
+  company: "Chalmers University of Technology"
+  title: "PhD student"
+  bio: "Maximilian Diehl is a PhD student in the Mechatronics research group at Chalmers Institute of Technology. His research interests include task planning and learning, learning from demonstration, and human-robot collaboration."
+  thumbnailUrl: diehl.png
+  rockstar: false
