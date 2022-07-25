@@ -45,12 +45,12 @@
   rockstar: false
 -
   id: 6
-  name: "TBD"
-  surname: "TBD"
-  company: "TBD"
-  title: "TBD"
-  bio: "TBD"
-  thumbnailUrl: question_mark.png
+  name: "Esra"
+  surname: "Erdem"
+  company: "Sabanci University"
+  title: "Professor"
+  bio: "Explainable plan execution monitoring under partial observability"
+  thumbnailUrl: erdem.png
   rockstar: false
 -
   id: 7
