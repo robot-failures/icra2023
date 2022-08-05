@@ -1,11 +1,10 @@
-- 
-  group: "Main organiser"
-  elements: 
-    - {name: "Autonomous Systems@H-BRS", description: "Autonomous Systems Group at Hochschule Bonn-Rhein-Sieg", link: "https://mas.b-it-center.de/", imageUrl: "mas.svg"}
+-
+  group: "Main organisers"
+  elements:
+    - {name: "Hochschule Bonn-Rhein-Sieg", description: "Autonomous Systems Group@Hochschule Bonn-Rhein-Sieg", link: "https://www.h-brs.de/en", imageUrl: "h-brs.svg"}
+    - {name: "Chalmers University of Technology", description: "Mechatronics Research Group@Chalmers University of Technology", link: "https://www.chalmers.se/en", imageUrl: "chalmers.svg"}
 
-- 
+-
   group: "Sponsors"
-  elements: 
-    - {name: "H-BRS", description: "Hochschule Bonn-Rhein-Sieg", link: "https://www.h-brs.de/en", imageUrl: "h-brs.svg"}
+  elements:
     - {name: "b-it", description: "Bonn-Aachen International Center for Information Technology", link: "https://www.b-it-center.de/", imageUrl: "b-it.svg"}
-
