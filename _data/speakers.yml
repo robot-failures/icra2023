@@ -12,7 +12,7 @@
   name: "Gerald"
   surname: "Steinbauer-Wagner"
   company: "Graz University of Technology"
-  title: "Associate Professor"
+  title: "Associate professor"
   bio: "TBD"
   thumbnailUrl: steinbauer-wagner.png
   rockstar: false
@@ -39,7 +39,7 @@
   name: "Sonia"
   surname: "Chernova"
   company: "Georgia Institute of Technology"
-  title: "Associate Professor"
+  title: "Associate professor"
   bio: "TBD"
   thumbnailUrl: chernova.png
   rockstar: false
@@ -54,12 +54,12 @@
   rockstar: false
 -
   id: 7
-  name: "TBD"
-  surname: "TBD"
-  company: "TBD"
-  title: "TBD"
+  name: "Tathagata"
+  surname: " Chakraborti"
+  company: "IBM Research AI"
+  title: "Research staff member"
   bio: "TBD"
-  thumbnailUrl: question_mark.png
+  thumbnailUrl: chakraborti.png
   rockstar: false
 -
   id: 8
