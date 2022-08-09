@@ -62,15 +62,6 @@
   thumbnailUrl: chakraborti.png
   rockstar: false
 -
-  id: 8
-  name: "TBD"
-  surname: "TBD"
-  company: "TBD"
-  title: "TBD"
-  bio: "TBD"
-  thumbnailUrl: question_mark.png
-  rockstar: false
--
   id: 100
   name: "Alex"
   surname: "Mitrevski"
