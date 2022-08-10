@@ -55,11 +55,20 @@
 -
   id: 7
   name: "Tathagata"
-  surname: " Chakraborti"
+  surname: "Chakraborti"
   company: "IBM Research AI"
   title: "Research staff member"
   bio: "TBD"
   thumbnailUrl: chakraborti.png
+  rockstar: false
+-
+  id: 8
+  name: "Danesh"
+  surname: "Tarapore"
+  company: "University of Southampton"
+  title: "Assistant professor"
+  bio: "Resilient robot swarms: from decentralized fault-detection to rapid fault-recovery"
+  thumbnailUrl: tarapore.png
   rockstar: false
 -
   id: 100
