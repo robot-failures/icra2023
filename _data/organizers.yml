@@ -8,3 +8,8 @@
   group: "Sponsors"
   elements:
     - {name: "b-it", description: "Bonn-Aachen International Center for Information Technology", link: "https://www.b-it-center.de/", imageUrl: "b-it.svg"}
+
+-
+  group: "IEEE RAS TC Endorsements"
+  elements:
+    - {name: "TC-SOFT", description: "Technical Committee for Software Engineering for Robotics and Automation", link: "https://www.ieee-ras.org/software-engineering-for-robotics-and-automation", imageUrl: "tc-soft.svg"}
