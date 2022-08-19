@@ -18,12 +18,12 @@
   rockstar: false
 -
   id: 3
-  name: "Erwin"
-  surname: "Prassler"
-  company: "Hochschule Bonn-Rhein-Sieg/KELO Robotics/Locomotec"
-  title: "Professor"
-  bio: "TBD"
-  thumbnailUrl: prassler.png
+  name: "Sebastian"
+  surname: "Blumenthal"
+  company: "KELO Robotics/Locomotec"
+  title: "Lead software development engineer"
+  bio: "Structured testing - and the surprising failures it can reveal"
+  thumbnailUrl: blumenthal.png
   rockstar: false
 -
   id: 4
