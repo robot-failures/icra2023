@@ -62,6 +62,7 @@ footerBlocks:
  -
   title: "Links"
   links:
+   - {link: "https://www.icra2023.org", text: "ICRA 2023"}
    - {link: "https://www.ieee-ras.org/about-ras/diversity-page/ieee-ras-code-of-conduct", text: "IEEE RAS Code of Conduct"}
  -
   title: "Contacts"
