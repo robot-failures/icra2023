@@ -12,5 +12,6 @@
 -
   group: "IEEE RAS TC Endorsements"
   elements:
+    - {name: "TC-CoRo", description: "Technical Committee for Cognitive Robotics", link: "https://www.ieee-ras.org/cognitive-robotics", imageUrl: "tc-coro.svg"}
     - {name: "TCMM", description: "Technical Committee for Mobile Manipulation", link: "https://www.ieee-ras.org/mobile-manipulation", imageUrl: "tcmm.svg"}
     - {name: "TC-SOFT", description: "Technical Committee for Software Engineering for Robotics and Automation", link: "https://www.ieee-ras.org/software-engineering-for-robotics-and-automation", imageUrl: "tc-soft.svg"}
