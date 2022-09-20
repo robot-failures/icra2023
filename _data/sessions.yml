@@ -53,5 +53,16 @@
   title: "Interactive session: Challenges in recognising and analysing execution failures"
   description: "In this session, participants will be split into groups and will discuss various challenges of execution monitoring and failure analysis. The discussion will also focus on brainstorming potential solutions for the identified challenges."
   subtype: presentation
-  # speakers: [7, 8]
+  video: ""
+-
+  id: 202
+  title: "Accepted paper presentations"
+  description: "In this session, contributed papers will be presented and discussed with the other workshop participants."
+  subtype: presentation
+  video: ""
+-
+  id: 203
+  title: "Panel discussion with the invited speakers"
+  description: "In this session, the invited speakers will discuss a specific problem related to the workshop sessions and address questions from the workshop participants."
+  subtype: presentation
   video: ""

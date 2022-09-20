@@ -1,8 +1,8 @@
 -
-  date: "2023-05-29"
-  dateReadable: "May 29"
+  date: "2023-06-02"
+  dateReadable: "June 02"
   tracks:
-    - {title: "Talk", color: "#90be4e"}
+    - {title: "Talk", color: "#016aba"}
   timeslots:
     - {
         startTime: "08:45",
@@ -11,8 +11,18 @@
     }
     - {
         startTime: "09:00",
-        endTime: "10:45",
+        endTime: "09:45",
         sessionIds: [101]
+    }
+    - {
+        startTime: "09:45",
+        endTime: "10:00",
+        sessionIds: [001]
+    }
+    - {
+        startTime: "10:00",
+        endTime: "10:45",
+        sessionIds: [102]
     }
     - {
         startTime: "10:45",
@@ -21,38 +31,53 @@
     }
     - {
         startTime: "11:00",
-        endTime: "12:45",
-        sessionIds: [102]
+        endTime: "12:15",
+        sessionIds: [202]
     }
     - {
-        startTime: "12:45",
-        endTime: "13:30",
+        startTime: "12:15",
+        endTime: "13:00",
         sessionIds: [002]
     }
     - {
-        startTime: "13:30",
-        endTime: "14:30",
+        startTime: "13:00",
+        endTime: "14:00",
         sessionIds: [201]
     }
     - {
-        startTime: "14:30",
-        endTime: "14:45",
+        startTime: "14:00",
+        endTime: "14:15",
         sessionIds: [001]
     }
     - {
-        startTime: "14:45",
-        endTime: "16:30",
+        startTime: "14:15",
+        endTime: "15:15",
         sessionIds: [103]
     }
     - {
-        startTime: "16:30",
-        endTime: "16:45",
+        startTime: "15:15",
+        endTime: "15:30",
         sessionIds: [001]
     }
     - {
-        startTime: "16:45",
-        endTime: "18:30",
+        startTime: "15:30",
+        endTime: "16:15",
         sessionIds: [104]
+    }
+    - {
+        startTime: "16:15",
+        endTime: "16:30",
+        sessionIds: [001]
+    }
+    - {
+        startTime: "16:30",
+        endTime: "17:45",
+        sessionIds: [202]
+    }
+    - {
+        startTime: "17:45",
+        endTime: "18:30",
+        sessionIds: [203]
     }
     - {
         startTime: "18:30",
