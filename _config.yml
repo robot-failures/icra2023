@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "Workshop on Robot Execution Failures and Failure Management Strategies"
-email: "robot-failures@h-brs.de"
+email: "aleksandar.mitrevski@h-brs.de"
 description: "ICRA 2023 Workshop on Robot Execution Failures and Failure Management Strategies"
 baseurl: "/icra2023"
 url: "https://robot-failures.github.io"
@@ -20,7 +20,7 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
 organizerName: "Autonomous Systems Group at Hochschule Bonn-Rhein-Sieg"
-organizerEmail: "robot-failures@h-brs.de"
+organizerEmail: "aleksandar.mitrevski@h-brs.de"
 organizerLink: "https://mas.b-it-center.de"
 
 # Head
@@ -67,7 +67,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:robot-failures@h-brs.de", text: "robot-failures@h-brs.de"}
+   - {link: "mailto:aleksandar.mitrevski@h-brs.de", text: "aleksandar.mitrevski@h-brs.de"}
 
 blogTitle: "Latest news"
 blogCommentsEnabled: false
