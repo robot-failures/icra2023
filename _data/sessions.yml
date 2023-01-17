@@ -1,6 +1,6 @@
 -
   id: 001
-  title: "Coffee break and poster presentations"
+  title: "Coffee break"
   place: "Hall"
   service: true
 -
@@ -56,8 +56,8 @@
   video: ""
 -
   id: 202
-  title: "Accepted paper presentations"
-  description: "In this session, contributed papers will be presented and discussed with the other workshop participants."
+  title: "Accepted paper presentations and poster session"
+  description: "In this session, contributed papers will be presented in short spotlight presentations. The spotlight presentations will be followed by a poster session during which the papers can be discussed with the other workshop participants."
   subtype: presentation
   video: ""
 -
