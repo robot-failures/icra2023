@@ -13,13 +13,13 @@
   title: "Welcome and opening remarks"
   description: "Introduction to the workshop"
   subtype: presentation
-  speakers: [100, 101, 102, 103, 104]
+  speakers: []
 -
   id: 003
   title: "Closing remarks"
   description: "Workshop closing remarks"
   subtype: presentation
-  speakers: [100, 101, 102, 103, 104]
+  speakers: []
 -
   id: 101
   title: "Execution monitoring and failure recovery"
