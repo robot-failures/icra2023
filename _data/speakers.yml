@@ -5,6 +5,7 @@
   company: "Hochschule Bonn-Rhein-Sieg"
   title: "Research associate"
   bio: "TBD"
+  abstract: "TBD"
   thumbnailUrl: awaad.png
   rockstar: false
 -
@@ -14,6 +15,7 @@
   company: "Graz University of Technology"
   title: "Associate professor"
   bio: "TBD"
+  abstract: "TBD"
   thumbnailUrl: steinbauer-wagner.png
   rockstar: false
 -
@@ -23,6 +25,7 @@
   company: "KELO Robotics GmbH"
   title: "Lead software development engineer"
   bio: "Structured testing - and the surprising failures it can reveal"
+  abstract: "TBD"
   thumbnailUrl: blumenthal.png
   rockstar: false
 -
@@ -32,6 +35,7 @@
   company: "The University of Manchester"
   title: "Research associate"
   bio: "Failure-in-the-loop HRI: owning mistakes in interaction design"
+  abstract: "TBD"
   thumbnailUrl: romeo.png
   rockstar: false
 -
@@ -41,6 +45,7 @@
   company: "Georgia Institute of Technology"
   title: "Associate professor"
   bio: "TBD"
+  abstract: "TBD"
   thumbnailUrl: chernova.png
   rockstar: false
 -
@@ -50,6 +55,7 @@
   company: "Sabanci University"
   title: "Professor"
   bio: "Explainable plan execution monitoring under partial observability"
+  abstract: "Successful plan generation for autonomous systems is necessary but not sufficient to guarantee reaching a goal state by an execution of a plan. Various discrepancies between an expected state and the observed state may occur during the plan execution (e.g., due to unexpected exogenous events, changes in the goals, or failure of robot parts) and these discrepancies may lead to plan failures. For that reason, autonomous systems should be equipped with execution monitoring algorithms so that they can autonomously recover from such discrepancies. We introduce a plan execution monitoring algorithm that operates under partial observability. This algorithm relies on novel formal methods for hybrid prediction, diagnosis and explanation generation, and planning. The prediction module generates an expected state after the execution of a part of the plan from an incomplete state to check for discrepancies. The diagnostic reasoning module generates meaningful hypotheses to explain failures of robot parts. Unlike the existing diagnosis methods, the previous hypotheses can be revised, based on new partial observations, increasing the accuracy of explanations as further information becomes available. The replanning module considers these explanations while computing a new plan that would avoid such failures. All these reasoning modules are hybrid in that they combine high-level logical reasoning with low-level feasibility checks based on probabilistic methods. We experimentally show that these hybrid formal reasoning modules improve the performance of plan execution monitoring."
   thumbnailUrl: erdem.png
   rockstar: false
 -
@@ -59,6 +65,7 @@
   company: "IBM Research AI"
   title: "Research staff member"
   bio: "Plan to Fail or Fail to Plan: An exploration of planning with incomplete knowledge and human expectations"
+  abstract: "TBD"
   thumbnailUrl: chakraborti.png
   rockstar: false
 -
@@ -68,6 +75,7 @@
   company: "University of Southampton"
   title: "Assistant professor"
   bio: "Resilient robot swarms: from decentralized fault-detection to rapid fault-recovery"
+  abstract: "TBD"
   thumbnailUrl: tarapore.png
   rockstar: false
 -
@@ -77,5 +85,6 @@
   company: "KTH Royal Institute of Technology"
   title: "Postdoctoral researcher"
   bio: "Towards automatically correcting robot failures using human input"
+  abstract: "TBD"
   thumbnailUrl: van_waveren.png
   rockstar: false
