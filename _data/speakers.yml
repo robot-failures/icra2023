@@ -32,8 +32,8 @@
   id: 4
   name: "Marta"
   surname: "Romeo"
-  company: "The University of Manchester"
-  title: "Research associate"
+  company: "Heriot-Watt University"
+  title: "Assistant professor"
   bio: "Failure-in-the-loop HRI: owning mistakes in interaction design"
   abstract: "TBD"
   thumbnailUrl: romeo.png
