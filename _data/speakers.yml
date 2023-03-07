@@ -88,3 +88,13 @@
   abstract: "TBD"
   thumbnailUrl: van_waveren.png
   rockstar: false
+-
+  id: 10
+  name: "Masha"
+  surname: "Itkina"
+  company: "Toyota Research Institute (TRI)"
+  title: "Research scientist"
+  bio: "TBD"
+  abstract: "TBD"
+  thumbnailUrl: itkina.png
+  rockstar: false
