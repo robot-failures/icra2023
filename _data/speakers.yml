@@ -35,7 +35,7 @@
   company: "Heriot-Watt University"
   title: "Assistant professor"
   bio: "Failure-in-the-loop HRI: owning mistakes in interaction design"
-  abstract: "TBD"
+  abstract: "What constitutes a failure when working with interactions between robots and humans? Can we safely assume that humans do not fail when interacting with each other, and can we demand the same from our robotic systems? With this talk, we will explore the role of failures in human-robot interaction, focusing on demystifying the negative preconception surrounding them. By looking at research from the Interaction Design field, we will differentiate between slips and mistakes, map them to robot errors, and discuss how they can drive the interaction. Owning up to a failure could have consequences on the overall rapport between humans and robots. It has the potential to influence trust and provide a valid method to reshape the expectations that naive users have about the technology, which could ultimately downsize the severity of the failure."
   thumbnailUrl: romeo.png
   rockstar: false
 -
