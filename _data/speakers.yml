@@ -25,7 +25,7 @@
   company: "KELO Robotics GmbH"
   title: "Lead software development engineer"
   bio: "Structured testing - and the surprising failures it can reveal"
-  abstract: "TBD"
+  abstract: "Structured testing is vital for the development of robotic applications. KELO Robotics has established a test procedure that includes different types of tests: field tests and endurance tests. A field test is a supervised functional test of the complete system in a real environment. Endurance tests are stress tests for individual components or the overall system. The emphasis in the latter tests is on scalability of test duration while achieving a semi-automated evaluation of performance. Both tests have in common that they are performed over a long period of weeks and months, leading to the detection of failures that might otherwise remain hidden. These types of errors range from degradation of sensing capabilities, to wrong assumptions about the system or environment, and even issues with electromagnetic interference."
   thumbnailUrl: blumenthal.png
   rockstar: false
 -
