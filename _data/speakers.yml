@@ -85,7 +85,7 @@
   company: "KTH Royal Institute of Technology"
   title: "Postdoctoral researcher"
   bio: "Towards automatically correcting robot failures using human input"
-  abstract: "TBD"
+  abstract: "Robots should adapt their behavior to new situations and people's preferences while ensuring the safety of the robot and its environment. Due to the large number of possible situations robots might encounter, it becomes impractical to define or learn all behaviors prior to deployment, causing the robot to inevitably fail at some point in time. My research focuses on safe human-robot interaction and how we can correct robots in ways that ensure that the robot will do what we tell it to do, e.g., through formal synthesis. In this talk, I will address how we can 1) shield robots from executing high-level actions that would lead to failure states and 2) how we can incorporate people's feedback in motion planning to increase perceived safety of a drone that flies close to people."
   thumbnailUrl: van_waveren.png
   rockstar: false
 -
