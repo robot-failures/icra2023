@@ -38,6 +38,7 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/call-for-papers/", text: "Call for papers"}
+ - {permalink: "/accepted-papers/", text: "Accepted papers"}
  - {permalink: "/organisers/", text: "Organisers"}
  - {permalink: "/news/", text: "News"}
 
