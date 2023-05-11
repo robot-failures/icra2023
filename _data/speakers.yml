@@ -75,7 +75,7 @@
   company: "University of Southampton"
   title: "Assistant professor"
   bio: "Resilient robot swarms: from decentralized fault-detection to rapid fault-recovery"
-  abstract: "TBD"
+  abstract: "Despite over 30 years of research in robot swarms, characterized as groups of robots coordinating to perform a wide array of tasks (e.g., collectively monitoring large environments), existing swarms are unprepared for long-term autonomy: unable to deal with the fragility of robot hardware, and easily challenged by inevitable changes in their functional environments; they are frail systems that cease functioning in difficult conditions. In this talk, I will discuss my attempts to remedy this situation via the development of algorithms for robot fault-detection and behaviour-adaptation. I will introduce bio-inspired algorithms that, (a) allow a robot swarm to robustly detect common sensor/motor faults in its members, while remaining resilient to changes in their exhibited behaviours (e.g., due to online learning); and (b) assist the faulty robots to adapt to sustained damages by rapidly discovering compensatory behaviours that work despite the damage or changes in their environment. Finally, I will outline my long-term vision towards the real-world applications of these algorithms in environmental monitoring."
   thumbnailUrl: tarapore.png
   rockstar: false
 -
