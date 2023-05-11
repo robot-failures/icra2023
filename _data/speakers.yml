@@ -39,16 +39,6 @@
   thumbnailUrl: romeo.png
   rockstar: false
 -
-  id: 5
-  name: "Sonia"
-  surname: "Chernova"
-  company: "Georgia Institute of Technology"
-  title: "Associate professor"
-  bio: "TBD"
-  abstract: "TBD"
-  thumbnailUrl: chernova.png
-  rockstar: false
--
   id: 6
   name: "Esra"
   surname: "Erdem"
