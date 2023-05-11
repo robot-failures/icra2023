@@ -64,8 +64,8 @@
   surname: "Chakraborti"
   company: "IBM Research AI"
   title: "Research staff member"
-  bio: "Plan to Fail or Fail to Plan: An exploration of planning with incomplete knowledge and human expectations"
-  abstract: "TBD"
+  bio: "How to react when there is no solution? On large language models and model space reasoning for automated planning"
+  abstract: "Automated planning, the ability to decide what to do next, is crucial for the design of autonomous systems such as robots. However, when a model produces no plan of action, there is little to no guidance on how to react to it either for the developer of the system or for an autonomous system that can self-adapt to failures. In this talk, we will explore strategies to deal with the unsolvability of planning models and the curious case for the use of large-scale statistical models such as LLMs as an assist for combinatorial search."
   thumbnailUrl: chakraborti.png
   rockstar: false
 -
