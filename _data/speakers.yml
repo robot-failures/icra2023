@@ -84,7 +84,7 @@
   surname: "Itkina"
   company: "Toyota Research Institute (TRI)"
   title: "Research scientist"
-  bio: "TBD"
-  abstract: "TBD"
+  bio: "Interpretable Self-Aware Neural Networks for Robust Trajectory Prediction"
+  abstract: "Although neural networks have seen tremendous success as predictive models in a variety of domains, they can be overly confident in their predictions on out-of-distribution (OOD) data. To be viable for safety-critical applications in human environments, like autonomous vehicles or assistive robotics, neural networks must accurately estimate their epistemic or model uncertainty, achieving a level of system self-awareness. In this talk, I will present an approach based on evidential deep learning to estimate the epistemic uncertainty over a low-dimensional, interpretable latent space in a trajectory prediction setting. We introduce an interpretable paradigm for trajectory prediction that distributes the uncertainty among the semantic concepts: past agent behavior, road structure, and social context. We validate our approach on real-world autonomous driving data, demonstrating superior performance over state-of-the-art baselines. Looking to the future, by enabling uncertainty-aware spatiotemporal inference in robotic systems, I hope to engender safe and socially cohesive human-robot interactions."
   thumbnailUrl: itkina.png
   rockstar: false
