@@ -46,7 +46,7 @@
   title: "Robot failures in practical applications"
   description: "In this session, robot failures will be discussed in the context of concrete practical applications, such as industrial deployment use cases."
   subtype: presentation
-  speakers: [2, 3]
+  speakers: [2, 3, 5]
   video: ""
 -
   id: 201

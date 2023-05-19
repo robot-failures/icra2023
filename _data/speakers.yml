@@ -39,6 +39,16 @@
   thumbnailUrl: romeo.png
   rockstar: false
 -
+  id: 5
+  name: "Devleena"
+  surname: "Das"
+  company: "Georgia Institute of Technology"
+  title: "PhD candidate"
+  bio: "Generating Explanations of that Improve User Assistance in Fault Recovery"
+  abstract: "With the growing capabilities of intelligent systems, the integration of robots in our everyday life is increasing. However, when interacting in such complex human environments, the occasional failure of robotic systems is inevitable. Explainable AI has sought to make complex-decision making systems more interpretable but most existing techniques target domain experts. On the contrary, in many failure cases, robots will require recovery assistance from non-expert users. In this talk, I will share how we can present meaningful, human-centered explanations that help improve non-AI expert understanding of robot failures such that users can provide meaningful solutions for robot recovery. Specifically, we will discuss the importance of environmental context for meaningful explanations, and how we can leverage semantic scene graphs to automatically extract contextual information from the environment to produce human-centered explanations for robot failures."
+  thumbnailUrl: das.png
+  rockstar: false
+-
   id: 6
   name: "Esra"
   surname: "Erdem"
