@@ -14,8 +14,8 @@
   surname: "Steinbauer-Wagner"
   company: "Graz University of Technology"
   title: "Associate professor"
-  bio: "TBD"
-  abstract: "TBD"
+  bio: "Dependable Robots through Model-Based Techniques"
+  abstract: "Although there are tons of impressive videos out there surprisingly enough autonomous robots frequently fail in performing moderate complex every day tasks in every day environments. The reasons are manyfold and originate mainly from the perception-decision-action cycle interacting with the environment. Having an insight for the root causes is valuable for the robot itself to act dependably, but it is also important for the developer as intelligent robots are complex constructs which often lack introspection. The DX community focuses their effort to run-time verification (e.g. monitoring and diagnosis) in order to improve the dependability of such complex machines. In this talk, we like to focus on the development/life cycle of an autonomous robot from the design over the implementation to the deployment. We like to emphasize that all of these stages can benefit from the application of model-based approaches to improve dependability. We will motivate this holistic view and will present techniques developed to tackle the different stages of the life cycle of robot in different domains such as logistics or production."
   thumbnailUrl: steinbauer-wagner.png
   rockstar: false
 -
