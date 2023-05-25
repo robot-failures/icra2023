@@ -8,6 +8,7 @@
   group: "Sponsors"
   elements:
     - {name: "b-it", description: "Bonn-Aachen International Center for Information Technology", link: "https://www.b-it-center.de/", imageUrl: "b-it.svg"}
+    - {name: "CHAIR", description: "Chalmers AI Research Centre", link: "https://www.chalmers.se/en/centres/chair/", imageUrl: "chalmers-ai-research-centre.svg"}
 
 -
   group: "IEEE RAS TC Endorsements"
