@@ -1,8 +1,9 @@
 -
   id: 001
-  title: "Coffee break"
-  place: "Hall"
-  service: true
+  title: "Poster session + coffee break"
+  description: "During the coffee break, authors will have a chance to discuss their posters with the other workshop participants."
+  subtype: presentation
+  speakers: []
 -
   id: 002
   title: "Lunch break"
@@ -56,7 +57,7 @@
   video: ""
 -
   id: 202
-  title: "Accepted paper presentations and poster session"
+  title: "Accepted paper presentations"
   description: "In this session, contributed papers will be presented in short spotlight presentations. The spotlight presentations will be followed by a poster session during which the papers can be discussed with the other workshop participants."
   subtype: presentation
   video: ""
@@ -66,3 +67,9 @@
   description: "In this session, the invited speakers will discuss a specific problem related to the workshop sessions and address questions from the workshop participants."
   subtype: presentation
   video: ""
+-
+  id: 204
+  title: "Poster session"
+  description: "During the poster session, authors will have a chance to discuss their posters with the other workshop participants."
+  subtype: presentation
+  speakers: []
