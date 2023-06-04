@@ -41,6 +41,7 @@ navigationLinks:
  - {permalink: "/accepted-papers/", text: "Accepted papers"}
  - {permalink: "/organisers/", text: "Organisers"}
  - {permalink: "/news/", text: "News"}
+ - {permalink: "/workshop-highlights/", text: "Workshop highlights"}
 
 # Hero Block
 heroImage: "hero.jpg"
